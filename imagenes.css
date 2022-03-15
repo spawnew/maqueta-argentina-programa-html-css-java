@@ -1,0 +1,150 @@
+
+   
+          
+          
+      
+      
+      
+         .portada{
+        z-index: 1; 
+        width: 100.8%;
+        height: 330px;
+        border-radius:29px 29px 0 0;
+        margin-left:-6px;
+        margin-right:5px
+        
+        
+         }
+          .fotoperfil{
+          width:152px;
+          height:152px;
+         border-radius:50%;
+         margin-top:-110px;
+         z-index: 1 ;
+         margin-left: 10px;
+        }
+        .navbar-nav {
+margin-left:auto;
+        }
+        
+        
+        .nombre{
+          margin-left: 13px;
+         font-size: 30px;
+          
+        }
+
+.icono1{
+
+margin-left:1300px;
+margin-top: -100px;
+}
+.icono2{
+
+  margin-left:1300px;
+  margin-top: -100px;
+  }
+        
+  
+  .textito{
+     margin-left: 100px;
+
+  }
+  .segundobloque{
+
+    border-radius:32px 32px 0 0;
+    border: aqua;
+    background-color: azure;
+    border:solid rgb(174, 173, 245)
+
+
+    }
+  .primera
+  {padding:auto ;
+    border-radius:32px 32px 32px 32px;
+    box-shadow:1px 1px 1px 1px rgb(209, 201, 201);
+     background-color:rgb(229, 228, 241);  
+     margin-left:10px;
+     margin-right: 10px;
+  
+  }
+  .seccion2{
+
+    border-radius:32px 32px 32px 32px;
+    box-shadow:1px 1px 1px 1px rgb(209, 187, 187);
+    background-color:rgb(229, 228, 241);;  
+    margin-left:10px;
+    margin-right: 10px;
+
+
+  }
+  .seccion3{
+
+    border-radius:32px 32px 32px 32px;
+    box-shadow:1px 1px 1px 1px rgb(214, 175, 175);
+    background-color:rgb(229, 228, 241);;    
+    margin-left:10px;
+    margin-right: 10px;
+
+
+  }
+  .completo{
+padding:3px;
+
+
+  }
+  .ACERCA{
+    padding:3px;
+    margin-left:10px;
+    font-size:15px;
+     
+
+  }
+  .abajodeacerca{
+    padding:auto ;
+    margin-left: 14px;
+    margin-top: -4px;
+  }
+
+
+  
+  .botonexp{
+    margin-left:1435px;
+   margin-top:-50px;
+  }
+
+  .lapiz{
+    margin-left:1435px;
+   margin-top:-40px;
+  }
+  .suma{
+
+    margin-left:1400px;
+   margin-top:-38px;
+  }
+  .trabajo1{
+    margin-left:250px;
+  }
+  .trabajo2{
+    margin-left:250px;
+  }
+  .trabajo3{
+    margin-left:250px;
+  }
+  .trabajo4{
+    margin-left:250px;
+  }
+  .seccion4{
+    border-radius:32px 32px 32px 32px;
+    box-shadow:1px 1px 1px 1px rgb(209, 187, 187);
+    background-color:rgb(229, 228, 241);;  
+    margin-left:10px;
+    margin-right: 10px;
+
+  }
+  .seccion5{
+    border-radius:32px 32px 32px 32px;
+    box-shadow:1px 1px 1px 1px rgb(209, 187, 187);
+    background-color:rgb(229, 228, 241);  
+    margin-left:10px;
+    margin-right: 10px;
