@@ -1,12 +1,10 @@
      
          .portada{
+          border-radius:32px 32px 32px 32px;
+        width: 101.5%;
+        height:350px;
         
-        width: 100.8%;
-        height: 400px;
-        
-        margin-left:-6px;
-        margin-right:5px
-        
+        margin-left: -12px;
         
          }
           .fotoperfil{
@@ -23,21 +21,15 @@ margin-left:auto;
         
         
         .nombre{
-          margin-left: 13px;
-         font-size: 30px;
+          
+         font-size: 20px;
+         
+         
           
         }
 
-.icono1{
 
-margin-left:1300px;
-margin-top: -100px;
-}
-.icono2{
 
-  margin-left:1300px;
-  margin-top: -100px;
-  }
         
   
   .textito{
@@ -54,10 +46,11 @@ margin-top: -100px;
 
     }
   .primera
-  {padding:auto ;
+  {
+    padding:auto ;
     border-radius:32px 32px 32px 32px;
     
-     background-color::rgb(229, 228, 241);  
+     background-color:rgb(227, 238, 245);  
      margin-left:10px;
      margin-right: 10px;
   
@@ -65,8 +58,7 @@ margin-top: -100px;
   .seccion2{
 
     border-radius:32px 32px 32px 32px;
-    
-    background-color:rgb(178, 247, 230);  
+    background-color:rgb(227, 238, 245);   
     margin-left:10px;
     margin-right: 10px;
 
@@ -76,7 +68,7 @@ margin-top: -100px;
 
     border-radius:32px 32px 32px 32px;
     
-    background-color:rgb(178, 247, 230);    
+    background-color:rgb(227, 238, 245);     
     margin-left:10px;
     margin-right: 10px;
 
@@ -86,7 +78,7 @@ margin-top: -100px;
 
     border-radius:32px 32px 32px 32px;
     
-    background-color:rgb(231, 245, 241);    
+    background-color:rgb(227, 238, 245);       
     margin-left:10px;
     margin-right: 10px;
 
@@ -95,8 +87,7 @@ margin-top: -100px;
   .seccion5{
 
     border-radius:32px 32px 32px 32px;
-    
-    background-color:rgb(119, 160, 235);    
+    background-color:rgb(227, 238, 245);    
     margin-left:10px;
     margin-right: 10px;
 
@@ -105,7 +96,7 @@ margin-top: -100px;
   .completo{
     margin-left:10px;
     margin-right: 10px;
-background-color:rgb(236, 236, 250);
+background-color:rgb(24, 160, 223);
 
 
   }

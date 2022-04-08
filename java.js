@@ -21,13 +21,16 @@ function logMessage(message){
     }
 //controlo si se presiona el enter
 let textarea=document.getElementById("edit")
-textarea.addEventListener('keyup', (e) => {
+textarea.add.getEventListener('keyup', (e) => {
     logMessage('key "${e.key}" released [event: keyup]' );
     if(e.key=="Enter"){
-        document.getElementById("edit").style.display="none"
+        document.getElementById("edit").style.display="none";
         
     }
 });
+
+
+    
 
 
 
